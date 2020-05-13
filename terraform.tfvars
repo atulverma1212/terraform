@@ -1,0 +1,5 @@
+Database = "testDatabase"
+DBPassword = "testPassword"
+DBUsername = "testUsername"
+Server = "172.1.1.1"
+Port = "27017"
